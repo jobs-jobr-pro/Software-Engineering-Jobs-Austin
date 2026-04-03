@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Apr 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -13,17 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Software Engineer - Transformation](https://jobr.pro/job/40211531/software-engineer-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 02 |
+| **[Zynga](https://www.zynga.com/)** | **[Senior Software Engineer - Wizard of Oz Slots](https://jobr.pro/job/40213414/senior-software-engineer-wizard-of-oz-slots?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX; Bay Area, CA; Chicago, IL; Toronto, Canada | On Site | Apr 02 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Manager](https://jobr.pro/job/40201974/software-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TEXAS, United States | On Site | Apr 01 |
 | **[Bumble Inc.](https://bumble.com/)** | **[Principal Software Engineer, AI & Matching](https://jobr.pro/job/40194123/principal-software-engineer-ai-matching?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | US TX Austin | On Site | Mar 31 |
 | **[Sensi.AI](https://sensi.ai/)** | **[Senior Software Engineer](https://jobr.pro/job/40188512/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, US | On Site | Mar 31 |
 | **[Udemy](https://www.udemy.com/)** | **[Front End Software Engineer Intern](https://jobr.pro/job/40186694/front-end-software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | Mar 30 |
 | **[Praetorian](https://www.praetorian.com/)** | **[Software Engineer](https://jobr.pro/job/40186960/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas, United States | On Site | Mar 30 |
 | **[UL Solutions](https://www.ul.com/)** | **[Senior AI Platform Software Engineer](https://jobr.pro/job/40177671/senior-ai-platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Mar 27 |
-| **[Vectra](https://www.vectra.ai/)** | **[Software Engineer - New College Graduate](https://jobr.pro/job/40163696/software-engineer-new-college-graduate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX or Remote | Remote | Mar 26 |
 
 ---
 
-**Current Stats:** 7 jobs | 14% remote | 7 companies | Avg salary: 140k  
+**Current Stats:** 8 jobs | 0% remote | 8 companies | Avg salary: 144k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
