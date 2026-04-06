@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Apr 05, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 06, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Staff Software Engineer](https://jobr.pro/job/40227469/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 05 |
+| **[Saronic Technologies](https://www.saronic.com/)** | **[Systems Infrastructure Software Engineer](https://jobr.pro/job/40227685/systems-infrastructure-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 05 |
 | **[ICON](https://www.iconbuild.com)** | **[Senior AI Engineer Software Engineer Government Technology](https://jobr.pro/job/40221630/senior-ai-engineer-software-engineer-government-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas, United States | On Site | Apr 03 |
 | **[Visa](https://visa.com)** | **[Software Engineer - Transformation](https://jobr.pro/job/40211531/software-engineer-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 02 |
 | **[Zynga](https://www.zynga.com/)** | **[Senior Software Engineer - Wizard of Oz Slots](https://jobr.pro/job/40213414/senior-software-engineer-wizard-of-oz-slots?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX; Bay Area, CA; Chicago, IL; Toronto, Canada | On Site | Apr 02 |
@@ -24,7 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 8 jobs | 0% remote | 8 companies | Avg salary: 134k  
+**Current Stats:** 10 jobs | 0% remote | 9 companies | Avg salary: 153k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
