@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Austin — 2026
 
-<sub><small>Last updated: Apr 11, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 12, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Austin** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -27,11 +27,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Saronic Technologies](https://www.saronic.com/)** | **[Full Stack Software Engineer, Program Systems](https://jobr.pro/job/40234987/full-stack-software-engineer-program-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 06 |
 | **[Iterable](https://iterable.com/)** | **[Senior Software Engineer (Channels)](https://jobr.pro/job/40235002/senior-software-engineer-channels?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco | Remote | Apr 06 |
 | **[Visa](https://visa.com)** | **[Staff Software Engineer](https://jobr.pro/job/40227469/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 05 |
-| **[Saronic Technologies](https://www.saronic.com/)** | **[Systems Infrastructure Software Engineer](https://jobr.pro/job/40227685/systems-infrastructure-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 05 |
 
 ---
 
-**Current Stats:** 15 jobs | 20% remote | 7 companies | Avg salary: 196k  
+**Current Stats:** 14 jobs | 21% remote | 7 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
