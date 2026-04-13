@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Austin — 2026
 
-<sub><small>Last updated: Apr 12, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 13, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Austin** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Arrive Logistics](https://www.arrivelogistics.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40291999/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | Apr 12 |
+| **[Saronic Technologies](https://www.saronic.com/)** | **[Systems Software Engineer](https://jobr.pro/job/40291481/systems-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 12 |
+| **[Saronic Technologies](https://www.saronic.com/)** | **[Staff/Senior Systems Software Engineer](https://jobr.pro/job/40291483/staffsenior-systems-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 12 |
+| **[Saronic Technologies](https://www.saronic.com/)** | **[Forward Deployed Software Engineer](https://jobr.pro/job/40291484/forward-deployed-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 12 |
+| **[Meds.com](https://meds.com)** | **[Senior Software Engineer](https://jobr.pro/job/40291486/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | Apr 12 |
 | **[ICON](https://www.iconbuild.com)** | **[Senior Software Engineer, AI/ML](https://jobr.pro/job/40281604/senior-software-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas, United States | On Site | Apr 10 |
 | **[Rev](https://www.rev.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40269190/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | Remote | Apr 10 |
 | **[Visa](https://visa.com)** | **[Software Engineer (Senior Consultant Level) – Platform Engineering](https://jobr.pro/job/40269191/software-engineer-senior-consultant-level-platform-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 10 |
@@ -26,11 +31,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Software Engineer, New College Grad - 2026, Austin, TX](https://jobr.pro/job/40239559/software-engineer-new-college-grad-2026-austin-tx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 07 |
 | **[Saronic Technologies](https://www.saronic.com/)** | **[Full Stack Software Engineer, Program Systems](https://jobr.pro/job/40234987/full-stack-software-engineer-program-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 06 |
 | **[Iterable](https://iterable.com/)** | **[Senior Software Engineer (Channels)](https://jobr.pro/job/40235002/senior-software-engineer-channels?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco | Remote | Apr 06 |
-| **[Visa](https://visa.com)** | **[Staff Software Engineer](https://jobr.pro/job/40227469/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 05 |
 
 ---
 
-**Current Stats:** 14 jobs | 21% remote | 7 companies | Avg salary: 196k  
+**Current Stats:** 18 jobs | 17% remote | 9 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
