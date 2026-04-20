@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Austin — 2026
 
-<sub><small>Last updated: Apr 19, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 20, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Austin** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Software Engineering Manager, Legal Investigation Support Engineering](https://jobr.pro/job/40438988/software-engineering-manager-legal-investigation-support-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, USA; New York, NY, USA | On Site | Apr 20 |
+| **[Visa](https://visa.com)** | **[Software Engineer](https://jobr.pro/job/40437385/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 20 |
+| **[Rev](https://www.rev.com/)** | **[Senior Software Engineer - Mobile](https://jobr.pro/job/40437388/senior-software-engineer-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | Remote | Apr 20 |
+| **[Ditto - Resilient Edge Device Connectivity](https://www.ditto.com)** | **[Senior Software Engineer, PubSec](https://jobr.pro/job/40435091/senior-software-engineer-pubsec?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Remote (Atlanta, Austin, San Francisco, Seattle) | Remote | Apr 19 |
 | **[CesiumAstro](https://www.cesiumastro.com/)** | **[Senior Software Engineer – Test Automation & Infrastructure](https://jobr.pro/job/40423337/senior-software-engineer-test-automation-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | Apr 17 |
 | **[Jump Trading](https://jumptrading.com)** | **[Software Engineer \| Core Development](https://jobr.pro/job/40411023/software-engineer-core-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Chicago, New York, Austin | On Site | Apr 17 |
 | **[CesiumAstro](https://www.cesiumastro.com/)** | **[Summer 2026 - Embedded Software Engineering Internship](https://jobr.pro/job/40422965/summer-2026-embedded-software-engineering-internship?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | Apr 17 |
@@ -22,7 +26,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apptronik](https://apptronik.com)** | **[Staff Software Engineer - Platform](https://jobr.pro/job/40393061/staff-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | Apr 16 |
 | **[Roku](https://www.weareroku.com/)** | **[Security Software Engineer](https://jobr.pro/job/40381316/security-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | Apr 16 |
 | **[G2i Inc.](https://www.g2i.co/)** | **[TypeScript - Software Engineer (Remote)](https://jobr.pro/job/40394029/typescript-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin | Remote | Apr 16 |
-| **[Visa](https://visa.com)** | **[Software Engineer](https://jobr.pro/job/40379503/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX, United States | On Site | Apr 15 |
 | **[Iterable](https://iterable.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40381377/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Hybrid - Denver; Hybrid - New York; Hybrid - San Francisco | Remote | Apr 15 |
 | **[TerraFirma Robotics](https://buildgiantrobots.com/)** | **[Robotics Software Engineer - Motion Planning, State Estimation, & Control](https://jobr.pro/job/40365860/robotics-software-engineer-motion-planning-state-estimation-control?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Robot Ranch (Austin,TX) | On Site | Apr 15 |
 | **[TerraFirma Robotics](https://buildgiantrobots.com/)** | **[Mission Control Software Engineer](https://jobr.pro/job/40365856/mission-control-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Robot Ranch (Austin,TX) | On Site | Apr 15 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Realtor.com Careers]()** | **[Software Engineer Intern](https://jobr.pro/job/40336376/software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas, United States | On Site | Apr 14 |
 | **[Zynga]()** | **[Principal Software Engineer (backend) - Payments](https://jobr.pro/job/40311948/principal-software-engineer-backend-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX; Toronto, Canada | On Site | Apr 14 |
 | **[Zynga]()** | **[Senior Software Engineer - Wizard of Oz Slots](https://jobr.pro/job/40213414/senior-software-engineer-wizard-of-oz-slots?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX; Bay Area, CA; Chicago, IL; Toronto, Canada | On Site | Apr 14 |
-| **[G2i Inc.](https://www.g2i.co/)** | **[Software Engineer TypeScript (Remote)](https://jobr.pro/job/40394028/software-engineer-typescript-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin | Remote | Apr 14 |
-| **[CharterUP](https://www.charterup.com/)** | **[Staff Software Engineer - Infrastructure](https://jobr.pro/job/40312408/staff-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | Remote | Apr 13 |
-| **[CharterUP](https://www.charterup.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/40312410/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | Remote | Apr 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 23 companies | Avg salary: 243k  
+**Current Stats:** 50 jobs | 38% remote | 24 companies | Avg salary: 254k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
