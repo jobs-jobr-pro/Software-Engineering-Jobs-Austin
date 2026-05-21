@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Austin — 2026
 
-<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Austin** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -22,11 +22,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Acrisure Innovation](https://acrisureinnovation.com)** | **[Software Engineer - Full Stack](https://jobr.pro/job/40793782/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | May 14 |
 | **[SpyCloud](https://spycloud.com)** | **[Staff Software Engineer - Integration Team](https://jobr.pro/job/40786251/staff-software-engineer-integration-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas \| Remote | Remote | May 14 |
 | **[Realtor.com Careers]()** | **[Software Test Engineer](https://jobr.pro/job/40789663/software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas, United States | On Site | May 14 |
-| **[Level](http://www.levelmpls.com/)** | **[Senior Software Engineer - Animation](https://jobr.pro/job/40769537/senior-software-engineer-animation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin | On Site | May 13 |
 
 ---
 
-**Current Stats:** 10 jobs | 20% remote | 10 companies | Avg salary: 47000057425032500000k  
+**Current Stats:** 9 jobs | 22% remote | 9 companies | Avg salary: 47000057425032500000k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
