@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in Austin — 2026
 
-<sub><small>Last updated: May 27, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 28, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in Austin** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Atomic Semi](https://AtomicSemi.com)** | **[Embedded Software Engineer](https://jobr.pro/job/40955401/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin | On Site | May 27 |
+| **[Apptronik](https://apptronik.com)** | **[Sr. Software Engineer – Real-Time Controls](https://jobr.pro/job/40962605/sr-software-engineer-real-time-controls?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | May 27 |
+| **[Atomic Semi](https://AtomicSemi.com)** | **[Staff Embedded Software Engineer](https://jobr.pro/job/40955400/staff-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin | On Site | May 27 |
+| **[Atoms](https://www.afternic.com)** | **[Senior Software Engineer - Data Infrastructure - Austin, TX](https://jobr.pro/job/40958020/senior-software-engineer-data-infrastructure-austin-tx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | May 27 |
+| **[SecurityScorecard](https://securityscorecard.com)** | **[Senior Software Engineer](https://jobr.pro/job/40956100/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX (Remote) | Remote | May 27 |
+| **[MNTN](https://mountain.com)** | **[Senior Software Engineer](https://jobr.pro/job/40959934/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | On Site | May 27 |
 | **[inKind](https://inkind.com)** | **[Senior Software Engineer](https://jobr.pro/job/40940531/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, in-person | On Site | May 26 |
 | **[GoodLeap](https://goodleap.com)** | **[Senior Software Engineer (Payments), Frontend](https://jobr.pro/job/40939069/senior-software-engineer-payments-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, TX | On Site | May 26 |
 | **[Confluent](https://confluent.io)** | **[Staff Software Engineer I](https://jobr.pro/job/40893216/staff-software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-austin)** | Austin, Texas | Remote | May 21 |
@@ -23,7 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 7 jobs | 14% remote | 5 companies | Avg salary: 3.70000340000554e+25k  
+**Current Stats:** 13 jobs | 15% remote | 10 companies | Avg salary: 1.6111130000023333e+49k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
